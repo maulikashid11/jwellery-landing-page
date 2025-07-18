@@ -14,7 +14,7 @@ export default function Navbar() {
       </div>
 
       {/* Middle Section: Navigation */}
-      <ul className="flex items-center space-x-6 text-black font-medium">
+      <ul className="hidden md:flex items-center space-x-6 text-black font-medium">
         <li className="hover:text-purple-700 cursor-pointer">All Jewellery</li>
         <li className="hover:text-purple-700 cursor-pointer">
           Diamond 
